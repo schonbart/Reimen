@@ -1,4 +1,4 @@
-package reimen;
+package gui;
 
 import java.awt.EventQueue;
 import java.awt.event.ActionEvent;
